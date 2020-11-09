@@ -1,0 +1,28 @@
+.bg-blue{
+    background-color: blue;
+}
+#hover:hover{
+    font-size: 18px;
+    border-bottom: 2px solid orange;
+}
+#header{
+    letter-spacing: 7px;
+    font-family:cursive;
+    font-weight: bold;
+    padding: 10px;
+}
+.bg-teal{
+    background-color: teal;
+}
+.icon{
+    font-size: 30px;
+}
+.text-teal{
+    color: teal;
+}
+.img-content{
+    float: left;
+}
+.about-content{
+    float: right;
+}
